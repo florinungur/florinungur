@@ -1,4 +1,4 @@
-My name is Florin Ungur (pronounced Flo·REEN Un·gur). Welcome to my GitHub page!
+My name is Florin Ungur (pronounced Flo•REEN Un•goor). Welcome to my GitHub page!
 
 This is a painting that I like — Vincent van Gogh's *Wheatfield under thunderclouds*.
 
